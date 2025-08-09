@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "QR Code Generator";
+}
+
+<div class="container">
+    <div class="qr-form">
+        <h2>Generate QR Code</h2>
+        <form method="post" id="qrForm">
+            <input type="text" name="url" placeholder="Enter URL"/>
+            <button type="submit" id="generate-btn">GENERATE</button>
+        </form>
+    </div>
+
+    <div id="qrResult"></div>
+</div>

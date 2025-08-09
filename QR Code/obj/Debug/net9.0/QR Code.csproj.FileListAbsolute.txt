@@ -1,0 +1,156 @@
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\appsettings.Development.json
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\appsettings.json
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\QR Code.staticwebassets.runtime.json
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\QR Code.staticwebassets.endpoints.json
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\QR Code.exe
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\QR Code.deps.json
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\QR Code.runtimeconfig.json
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\QR Code.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\QR Code.pdb
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\QRCoder.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\System.Private.Windows.Core.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.csproj.AssemblyReference.cache
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.AssemblyInfoInputs.cache
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.AssemblyInfo.cs
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.csproj.CoreCompileInputs.cache
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.RazorAssemblyInfo.cache
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.RazorAssemblyInfo.cs
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\scopedcss\bundle\QR Code.styles.css
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\scopedcss\projectbundle\QR Code.bundle.scp.css
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\ktpublmalk-61n19gt1b8.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\askyrap3v5-bqjiyaj88i.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\xtxhhjenjb-c2jlpeoesf.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\bnlkr8f3jc-erw9l3u2r3.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\tnng7bjo52-aexeepp0ev.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\1ro1mbp4aw-d7shbmvgxk.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\gfrefgeegd-ausgxo2sd3.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\025rwqdkit-k8d9w2qqmf.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\de87czq1kl-cosvhxvwiu.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\7yqt2u064v-ub07r2b239.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\hu0x2ve97r-fvhpjtyr6v.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\pzmuw7hzsz-b7pk76d08c.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\lfnpom6nnx-fsbi9cje9m.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\5oc8tj8nom-rzd6atqjts.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\3pmn9ylofe-ee0r1s7dh0.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\m8yw9wix5a-dxx9fxp4il.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\3if43hy4m0-jd9uben2k1.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\f2xho326v9-khv3u5hwcm.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\r5oxicl8li-r4e9w2rdcm.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\jya6k0ajza-lcd1t2u6c8.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\wyydz4t3z7-c2oey78nd0.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\87ofvdhc3i-tdbxkamptv.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\6inkesqn1f-j5mq2jizvt.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\4plh9a8bm1-06098lyss8.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\jexrbepcxe-nvvlpmu67g.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\m61mkgv9w5-s35ty4nyc5.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\q08bki9ldr-pj5nd1wqec.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\cir4x6w94t-46ein0sx1k.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\yeg6qvu6h3-v0zj4ognzu.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\5ak0ij4rxf-37tfw0ft22.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\xschng2vxc-hrwsygsryq.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\u6sk8xs35d-pk9g2wxc8p.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\pjb53biv4y-ft3s53vfgj.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\1gpkppabyl-6cfz1n2cew.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\6aq7aajpao-6pdc2jztkx.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\rfucgj6vcm-493y06b0oq.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\o9926b6vc9-iovd86k7lj.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\hmkou5cxf2-vr1egmr9el.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\so3uqpbg6f-kbrnm935zg.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\iu0s7e9rxm-jj8uyg4cgr.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\8ykfqdfrmm-y7v9cxd14o.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\42t7ur5g10-notf2xhcfb.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\3nlitro6jb-h1s4sie4z3.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\l46ms8x5u6-63fj8s7r0e.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\6xy8z9tepi-0j3bgjxly4.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\51qi6niygq-47otxtyo56.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\0usup1of3y-4v8eqarkd7.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\gp84le4wra-356vix0kms.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\hog6mi3twk-83jwlth58m.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\8rcmam6dis-mrlpezrjn3.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\vudyjazaw1-lzl9nlhx6b.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\f3bo7ki1wi-ag7o75518u.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\ortnhqjjl7-x0q3zqp4vz.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\e7gah93cif-0i3buxo5is.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\z7isudtmvk-o1o13a6vjx.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\j39vijc0yg-ttgo8qnofa.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\5r1vpr24ms-2z0ns9nrw6.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\7gdun3fbwt-muycvpuwrr.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\dnruuspmph-87fc7y1x7t.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\hwnq5oh0to-mlv21k5csn.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\8qetcy770q-ocrtqyhrw9.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\usa7ln1cx0-ocrtqyhrw9.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\staticwebassets.build.json
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\staticwebassets.development.json
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.csproj.Up2Date
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.dll
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\refint\QR Code.dll
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.pdb
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\QR Code.genruntimeconfig.cache
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\ref\QR Code.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\xhzeaw49hm-yrfofkr9o8.gz
+D:\Dot Net Interview Preparation\QR Code\obj\Debug\net9.0\compressed\0o0j7jcbym-4kifvzhdwy.gz
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-Black.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-BlackItalic.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-Bold.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-BoldItalic.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-ExtraBold.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-ExtraLight.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-Italic.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-Light.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-LightItalic.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-Medium.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-MediumItalic.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-Regular.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-SemiBold.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-Thin.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\Lato-ThinItalic.ttf
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\LatoFont\OFL.txt
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\itextsharp.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\QuestPDF.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-arm64\native\libcrypto.so
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-arm64\native\libjpeg.so.8
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-arm64\native\libqpdf.so
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libcrypto.so
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libjpeg.so.8
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libqpdf.so
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-x64\native\libcrypto.so
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-x64\native\libjpeg.so.8
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\linux-x64\native\libqpdf.so
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\osx-arm64\native\libcrypto.dylib
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\osx-arm64\native\libjpeg.dylib
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\osx-arm64\native\libqpdf.dylib
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\osx-x64\native\libcrypto.dylib
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\osx-x64\native\libjpeg.dylib
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\osx-x64\native\libqpdf.dylib
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\win-x64\native\libstdc++-6.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\win-x64\native\libwinpthread-1.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\win-x64\native\qpdf.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\win-x86\native\libstdc++-6.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\win-x86\native\libwinpthread-1.dll
+D:\Dot Net Interview Preparation\QR Code\bin\Debug\net9.0\runtimes\win-x86\native\qpdf.dll

@@ -1,0 +1,18 @@
+﻿@model QR_Code.Models.QRCodeModel;
+
+@if (!string.IsNullOrEmpty(Model.QrCodeImage))
+{
+    <div style="text-align:center; margin-top:30px;" class="qr-code-result">
+        <img src="@Model.QrCodeImage" style="width:300px; height:300px;" alt="QR Code" />
+        <div class="url-text">
+            <span>@Model.URL</span>
+        </div>
+        <button id="downloadPdfBtn" style="cursor:pointer; border:none;">
+            Download PDF
+        </button>
+    </div>
+}
+else
+{
+    <h2 style="text-align:center; background:red">Couldn't Generate the QR Code</h2>
+}
